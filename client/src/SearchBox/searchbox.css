@@ -1,0 +1,16 @@
+.search{
+  position: relative;
+  margin-top: 25px;
+  width: 300px;
+  border: 5px solid #bd284d;
+  border-radius: 25%;
+  padding: 20px;
+  
+}
+
+  .center {
+    margin: auto;
+    width: 60%;
+    
+    padding: 10px;
+  }
